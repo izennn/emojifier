@@ -1,12 +1,7 @@
-# mlh-localhost-emojifier-code
+# Emoji-fier
 
-This repo contains the starter code for the workshop Intro to the MEAN Stack Powered by Blackrock
+Emojify any picture! Provide a link to a picture and the website returns the same image but with any detected faces, replaced by the proper emoji. 
 
-Demo image link:
+## Motivation
 
-https://docs.microsoft.com/en-ca/azure/cognitive-services/face/images/facefindsimilar.queryface.jpg
-
-
-MongoDB Windows Startup Command:
-
-`"C:\Program Files\MongoDB\Server\4.0\bin\mongod.exe" --dbpath="c:\data\mongodb"`
+To create a fullstack website (MEAN stack), starting with Major League Hacker (MLH)'s starting code. The original repo contained starting code for the workshop Intro to the MEAN Stack Powered by Blackrock. 
